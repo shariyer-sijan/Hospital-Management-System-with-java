@@ -22,4 +22,4 @@ CareSync is a Java-based Hospital Management System developed using Object Orien
 
 ## Contributors
 - Sijan
-- 
+- Awal
